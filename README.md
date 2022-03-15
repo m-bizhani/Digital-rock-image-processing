@@ -6,7 +6,7 @@ This repository is for codes and models used in the following paper:
 
 * Codes include models for image denoising, deblurring, and single-image super-resolution 
 * Models were developed and trained using TensorFlow version 2.4
-* Trained models weights are included in the weights folder 
+* Pre-trained models are not added due to size limit at this time  
 
 ## Models:
 
